@@ -1,0 +1,5 @@
+{
+    "name": "meteor-collection-hook",
+    "main": "register.js",
+    "version": "1.0.0"
+}
